@@ -18,9 +18,9 @@
     
    🔭 I’m a final year Computer Science Student.
    
-   🌱 Currently learning **Solidity , MERN Stack**
+   🌱 Currently learning **Solana Development , MERN Stack**
   
-  💬 Ask me about **Node.js, React, Solidity... or anything [here](https://github.com/SandeepMahto17/SandeepMahto17/issues)**
+  💬 Ask me about **MongoDb, Express.js, Node.js, React.js, ... or anything [here](https://github.com/SandeepMahto17/SandeepMahto17/issues)**
   
   ⚡ Fun fact **Let's meet again for the first time**
   
