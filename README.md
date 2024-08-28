@@ -18,7 +18,7 @@
     
    🔭 I’m fourth year Computer Science Student.
    
-   🌱 Currently learning **Solana Development , MERN Stack**
+   🌱 Currently learning **Solana Development and MERN Stack**
   
   💬 Ask me about **MongoDb, Express.js, Node.js, React.js, ... or anything [here](https://github.com/SandeepMahto17/SandeepMahto17/issues)**
   
