@@ -18,13 +18,13 @@
     
    🔭 I’m fourth year Computer Science Student.
    
-   🌱 Currently learning **Solana Development and MERN Stack**
+   🌱 Currently learning **Solana Development and MERN Stack**.
   
   💬 Ask me about **MongoDb, Express.js, Node.js, React.js, ... or anything [here](https://github.com/SandeepMahto17/SandeepMahto17/issues)**
   
   ⚡ Fun fact **Let's meet again for the first time**
   
-  "I like simple things travelling, movies, literature and art"
+  "I like simple things -Sports, travelling, movies, literature and art"
   
   </div>
   
