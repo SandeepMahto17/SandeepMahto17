@@ -8,7 +8,7 @@
 </h1>
 
 
-<h3 align="center">Aspiring Computer Science Student | Developer | Artist</h3>
+<h3 align="center"> Aspiring Computer Science Student | Developer | Artist</h3>
 
 <br/>
 <div display:block>
