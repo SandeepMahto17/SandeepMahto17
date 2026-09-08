@@ -8,7 +8,7 @@
 </h1>
 
 
-<h3 align="center"> Aspiring Computer Science Student | Developer | Artist</h3>
+<h3 align="center"> Software Developer | Artist</h3>
 
 <br/>
 <div display:block>
@@ -16,15 +16,15 @@
 <img align="right" alt="Coding" width="21%"  src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
     
-   🔭 I’m fourth year Computer Science Student.
+   🔭 Backend AI Driven SOFTWARE dEVELOPER.
    
-   🌱 Currently learning **Solana Development and MERN Stack**.
+   🌱 Currently working at **ZKTeco R&D Center Banglore**.
   
-  💬 Ask me about **MongoDb, Express.js, Node.js, React.js, ... or anything [here](https://github.com/SandeepMahto17/SandeepMahto17/issues)**
+  💬 Ask me about **Java, Python, Express.js, Node.js, React.js, LLLM's ... or anything [here](https://github.com/SandeepMahto17/SandeepMahto17/issues)**
   
   ⚡ Fun fact **Let's meet again for the first time**
   
-  "I like simple things -Sports, travelling, movies, literature and art"
+  "I like simple things -Building, Sports, travelling, movies, literature and art"
   
   </div>
   
